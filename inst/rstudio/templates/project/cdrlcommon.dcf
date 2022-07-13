@@ -1,4 +1,4 @@
-Binding: setup_dir
+Binding: create_dirs
 Title: CDRL Common Template
 
 Parameter: check
