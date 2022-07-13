@@ -1,4 +1,8 @@
 Binding: setup_dir
 Title: CDRL Common Template
 
-Parameter
+Parameter: check
+Widget: CheckboxInput
+Label: Checkbox Input
+Default: On
+Position: left
